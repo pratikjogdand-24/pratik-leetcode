@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0169-majority-element) |
 ## Hash Table
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

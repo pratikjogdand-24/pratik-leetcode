@@ -60,4 +60,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->

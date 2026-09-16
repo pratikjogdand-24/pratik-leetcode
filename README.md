@@ -58,15 +58,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0053-maximum-subarray) |
+| [0392-is-subsequence](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |

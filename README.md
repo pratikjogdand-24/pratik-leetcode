@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0125-valid-palindrome) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

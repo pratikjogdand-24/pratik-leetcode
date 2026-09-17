@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0088-merge-sorted-array) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0169-majority-element) |
 ## Sorting
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0035-search-insert-position) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree

@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0392-is-subsequence) |
 ## String
 |  |

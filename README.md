@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0392-is-subsequence) |
 ## Sliding Window
@@ -96,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0881-boats-to-save-people) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

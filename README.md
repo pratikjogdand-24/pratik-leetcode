@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0826-most-profit-assigning-work](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0169-majority-element) |
+| [0826-most-profit-assigning-work](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0881-boats-to-save-people) |
 ## Counting
 |  |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0700-search-in-a-binary-search-tree](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0826-most-profit-assigning-work](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0826-most-profit-assigning-work) |
 ## Binary Tree
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0392-is-subsequence) |
+| [0826-most-profit-assigning-work](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0881-boats-to-save-people) |
 ## String
 |  |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0011-container-with-most-water) |
+| [0826-most-profit-assigning-work](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/pratikjogdand-24/pratik-leetcode/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
